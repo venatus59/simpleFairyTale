@@ -1,10 +1,17 @@
+package simpleFairyTale;
+
+
+import javax.xml.*;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
 /**
  * 
  */
-package simpleFairyTale;
+
 
 /**
- * @author SAIT-admin
+ * @author cindy aka venatus
  *
  */
 public class XMLReader {
@@ -14,7 +21,7 @@ public class XMLReader {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
 	}
 
 }
